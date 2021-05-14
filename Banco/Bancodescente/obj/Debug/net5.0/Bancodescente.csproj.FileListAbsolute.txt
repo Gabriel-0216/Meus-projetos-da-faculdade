@@ -1,0 +1,16 @@
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\bin\Debug\net5.0\Bancodescente.exe
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\bin\Debug\net5.0\Bancodescente.deps.json
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\bin\Debug\net5.0\Bancodescente.runtimeconfig.json
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\bin\Debug\net5.0\Bancodescente.runtimeconfig.dev.json
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\bin\Debug\net5.0\Bancodescente.dll
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\bin\Debug\net5.0\ref\Bancodescente.dll
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\bin\Debug\net5.0\Bancodescente.pdb
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\obj\Debug\net5.0\Bancodescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\obj\Debug\net5.0\Bancodescente.AssemblyInfoInputs.cache
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\obj\Debug\net5.0\Bancodescente.AssemblyInfo.cs
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\obj\Debug\net5.0\Bancodescente.csproj.CoreCompileInputs.cache
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\obj\Debug\net5.0\Bancodescente.dll
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\obj\Debug\net5.0\ref\Bancodescente.dll
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\obj\Debug\net5.0\Bancodescente.pdb
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\obj\Debug\net5.0\Bancodescente.genruntimeconfig.cache
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\obj\Debug\net5.0\Bancodescente.csprojAssemblyReference.cache

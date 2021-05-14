@@ -1,0 +1,5 @@
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\bin\Debug\net5.0\publish\Bancodescente.exe
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\bin\Debug\net5.0\publish\Bancodescente.dll
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\bin\Debug\net5.0\publish\Bancodescente.deps.json
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\bin\Debug\net5.0\publish\Bancodescente.runtimeconfig.json
+C:\Users\GABRI\source\repos\Bancodescente\Bancodescente\bin\Debug\net5.0\publish\Bancodescente.pdb
